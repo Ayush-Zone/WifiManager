@@ -1,2 +1,2 @@
 # WifiManager
-Minimalist Wifi Manager for ESP microcontrollers
+Minimalist Wifi-Manager for ESP microcontrollers
